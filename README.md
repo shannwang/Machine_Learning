@@ -1,6 +1,5 @@
 # Notes of Machine Learning
-author: Shanshan Wang
-
+author: Shanshan Wang\
 shanshan.wang@uni-due.de
 
 ## Table of Contents

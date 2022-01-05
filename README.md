@@ -1,4 +1,4 @@
-# Notes of Machine Learning
+# Notes on Machine Learning
 author: Shanshan Wang\
 shanshan.wang@uni-due.de
 

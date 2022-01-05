@@ -52,20 +52,20 @@ shanshan.wang@uni-due.de
 <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#introduction">Introduction</a></li>
 <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#data">Data</a></li>
  <ul>
- <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#dataset">Description of datasets</a></li>
- <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#dataclean">Data cleaning</a> </li>
- <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#feature">Feature engineering</a></li>
- <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html">Summary of data exploration, data cleaning and feature engineering</a></li>
+ <li>Description of datasets</li>
+ <li>Data cleaning </li>
+ <li>Feature engineering</li>
+ <li>Summary of data exploration, data cleaning and feature engineering</li>
  </ul>
 <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#correlation">Correlation matrices of traffic flows</a></li>
 <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#reduce">Dimensionality reduction with PCA</a></li>
 <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#model">Clustering models</a></li>
  <ul>
- <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#kmeans">k-means clustering</a></li>
- <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#hierarchical">Hierarchical clustering</a></li>
- <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#dbscan">DBSCAN clustering</a></li>
- <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#mean">Mean shift clustering</a></li>
- <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#compare">Comparison of clustering methods</a></li>
+ <li>k-means clustering</li>
+ <li>Hierarchical clustering</li>
+ <li>DBSCAN clustering</li>
+ <li>Mean shift clustering</li>
+ <li>Comparison of clustering methods</li>
  </ul>
 <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#summary">Summary</a></li>
 <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#suggestion">Suggestions for next steps</a></li>

@@ -14298,12 +14298,12 @@ Feb.15, 2021</p>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="1-Data-Exploration-">1 Data Exploration <a name="data" /><a class="anchor-link" href="#1-Data-Exploration-">&#182;</a></h2>
+<h2 id="1-Data-Exploration"><a name="data" />1 Data Exploration<a class="anchor-link" href="#1-Data-Exploration">&#182;</a></h2>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Initial-plan-for-data-exploration-">Initial plan for data exploration <a name="plan" /><a class="anchor-link" href="#Initial-plan-for-data-exploration-">&#182;</a></h3><ol>
+<h3 id="-Initial-plan-for-data-exploration"><a name="plan" /> Initial plan for data exploration<a class="anchor-link" href="#-Initial-plan-for-data-exploration">&#182;</a></h3><ol>
     <li> Load a stock dataset by YahooFinancials  
     <li> Check the information of the dataset
     <li> Filter out the tickers with missing data
@@ -14320,7 +14320,7 @@ Feb.15, 2021</p>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Reading-datasets-">Reading datasets <a name="reading" /><a class="anchor-link" href="#Reading-datasets-">&#182;</a></h3><h4 id="Load-NASDAQ-100-company-symbols-from-Wikipedia">Load NASDAQ-100 company symbols from Wikipedia<a class="anchor-link" href="#Load-NASDAQ-100-company-symbols-from-Wikipedia">&#182;</a></h4>
+<h3 id="Reading-datasets"><a name="datareading" />Reading datasets<a class="anchor-link" href="#Reading-datasets">&#182;</a></h3><h4 id="Load-NASDAQ-100-company-symbols-from-Wikipedia">Load NASDAQ-100 company symbols from Wikipedia<a class="anchor-link" href="#Load-NASDAQ-100-company-symbols-from-Wikipedia">&#182;</a></h4>
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
@@ -14800,7 +14800,7 @@ Successfully installed yahoofinancials-1.6
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Brief-description-of-the-data-set-and-a-summary-of-its-attributes-">Brief description of the data set and a summary of its attributes <a name="describe" /><a class="anchor-link" href="#Brief-description-of-the-data-set-and-a-summary-of-its-attributes-">&#182;</a></h3><p>The dataset contains adjusted prices of 102 stocks during 2768 days from Jan. 4, 2010 to Dec. 30, 2020. The 102 stocks are from NASDAQ-100 index. Their company names are listed in Wikipedia and updated on December 21, 2020. The companies added to NASDAQ-100 index latest may not have the data in early time. Therefore, we find some of the stocks in the dataset contain the missing data.</p>
+<h3 id="Brief-description-of-the-data-set-and-a-summary-of-its-attributes"><a name="datadescription" />Brief description of the data set and a summary of its attributes<a class="anchor-link" href="#Brief-description-of-the-data-set-and-a-summary-of-its-attributes">&#182;</a></h3><p>The dataset contains adjusted prices of 102 stocks during 2768 days from Jan. 4, 2010 to Dec. 30, 2020. The 102 stocks are from NASDAQ-100 index. Their company names are listed in Wikipedia and updated on December 21, 2020. The companies added to NASDAQ-100 index latest may not have the data in early time. Therefore, we find some of the stocks in the dataset contain the missing data.</p>
 <p>A row in the dataset represents the data from all stocks in one trading day and a column indicates a time series of a stock. The dataset lists the stock prices in the data type of float64, where 19 of 102 stocks contain missing data. We list a description of the dataset, such as the mean values, standard deviation, minimum value and maximum value, for different stocks in the following table.</p>
 
 </div>
@@ -15178,7 +15178,7 @@ dtype: int64</pre>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Data-cleaning-and-feature-engineering-">Data cleaning and feature engineering <a name="cleaning" /><a class="anchor-link" href="#Data-cleaning-and-feature-engineering-">&#182;</a></h3>
+<h3 id="Data-cleaning-and-feature-engineering"><a name="dataprocessing" />Data cleaning and feature engineering<a class="anchor-link" href="#Data-cleaning-and-feature-engineering">&#182;</a></h3>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
@@ -17498,7 +17498,7 @@ memory usage: 151.4 KB
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Key-Findings-and-Insights-">Key Findings and Insights <a name="finding" /><a class="anchor-link" href="#Key-Findings-and-Insights-">&#182;</a></h3><ol>
+<h3 id="Key-Findings-and-Insights"><a name="findings" />Key Findings and Insights<a class="anchor-link" href="#Key-Findings-and-Insights">&#182;</a></h3><ol>
     <li> We use an index to indicate the scaled price averaged over the tickers in each sector.
     <li> For the sectors and the market, similar trends are present in both indices and returns, where a dramatical fluctuation is visiable for each case after Dec. 9, 2019.
     <li> The scatter plots show obvious positive correlations of return between the sectors and the market and between sectors themselves.
@@ -17508,7 +17508,7 @@ memory usage: 151.4 KB
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Hypothesis-tests--">Hypothesis tests  <a name="tests" /><a class="anchor-link" href="#Hypothesis-tests--">&#182;</a></h2><h4 id="Hypothesis-1">Hypothesis 1<a class="anchor-link" href="#Hypothesis-1">&#182;</a></h4><p><strong>H0</strong>: The return of the market follows a Gaussian distribution</p>
+<h2 id="2-Hypothesis-tests"><a name="tests" />2 Hypothesis tests<a class="anchor-link" href="#2-Hypothesis-tests">&#182;</a></h2><h4 id="Hypothesis-1"><a name="hypotheses" />Hypothesis 1<a class="anchor-link" href="#Hypothesis-1">&#182;</a></h4><p><strong>H0</strong>: The return of the market follows a Gaussian distribution</p>
 <p><strong>H1</strong>: The return of the market does not follow a Gaussian distribution</p>
 
 </div>
@@ -17680,7 +17680,7 @@ Probably the same distribution
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Suggestions-for-next-steps-in-analyzing-this-data">Suggestions for next steps in analyzing this data<a class="anchor-link" href="#Suggestions-for-next-steps-in-analyzing-this-data">&#182;</a></h3>
+<h3 id="Suggestions-for-next-steps-in-analyzing-this-data"><a name="suggestions" />Suggestions for next steps in analyzing this data<a class="anchor-link" href="#Suggestions-for-next-steps-in-analyzing-this-data">&#182;</a></h3>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
@@ -17695,7 +17695,7 @@ Probably the same distribution
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Summary--">Summary  <a name="summary" /><a class="anchor-link" href="#Summary--">&#182;</a></h2>
+<h2 id="3-Summary"><a name="summary" />3 Summary<a class="anchor-link" href="#3-Summary">&#182;</a></h2>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">

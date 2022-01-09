@@ -26,7 +26,7 @@ shanshan.wang@uni-due.de
  <li>A request for additional data if needed</li>
  </ul>
 </ul>
-</br>
+<br>
  
  
 <li><a href="https://shannwang.github.io/Machine_Learning/Superised_Learning_Regression.html">Supervised Learning: Using regression models to predict market and sector trends</a></li>
@@ -49,24 +49,24 @@ shanshan.wang@uni-due.de
 <li><a href="https://shannwang.github.io/Machine_Learning/Superised_Learning_Regression.html#summary">Summary</a></li>
 <li><a href="https://shannwang.github.io/Machine_Learning/Superised_Learning_Regression.html#suggestion">Suggestions for next steps in analyzing this data</a></li>
 </ul>
-</br>
+<br>
 
  
-<li><a href=https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html">Supervised learning: Classifying weather conditions of Cologne Bonn airport</a></li>
+<li><a href="https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html">Supervised learning: Classifying weather conditions of Cologne Bonn airport</a></li>
 <ul>
-<li><a href=https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html#introduction">Introduction</a></li>
+<li><a href="https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html#introduction">Introduction</a></li>
  <ul>
  <li>Main objective</li>
  <li>Outlines</li>
  </ul>
-<li><a href=https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html#data">Data</a></li>
+<li><a href="https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html#data">Data</a></li>
  <ul>
  <li>Data description</li>
  <li>Data cleaning</li>
  <li>Feature engineering</li>
  <li>A summary about data</li>
  </ul>
-<li><a href=https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html#models">Classifier models</a></li>
+<li><a href="https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html#models">Classifier models</a></li>
  <ul>
  <li>Logistic regression</li>
  <li>K nearest neighbors</li>
@@ -76,10 +76,10 @@ shanshan.wang@uni-due.de
  <li>Boosting and stacking</li>
  <li>Comparison of models</li>
  </ul>
-<li><a href=https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html#summary">Summary</a></li>
-<li><a href=https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html#suggestion">Suggestions for next steps</a></li>
+<li><a href="https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html#summary">Summary</a></li>
+<li><a href="https://shannwang.github.io/Machine_Learning/supervised_learning_classifying_weather_conditions.html#suggestion">Suggestions for next steps</a></li>
 </ul> 
-</br>
+<br>
 
  
 <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html">Unsupervised Learning: Clustering road sections with respective to the correlations of traffic flows</a></li> 
@@ -105,6 +105,6 @@ shanshan.wang@uni-due.de
 <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#summary">Summary</a></li>
 <li><a href="https://shannwang.github.io/Machine_Learning/unsupervised_learning_clustering_road_sections.html#suggestion">Suggestions for next steps</a></li>
 </ul> 
-</br>
+<br>
 
 </ol> 

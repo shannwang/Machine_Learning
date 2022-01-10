@@ -123,9 +123,10 @@ shanshan.wang@uni-due.de
  <li>City clusters by k-means clustering</li>
  <li>City clusters by hierarchical clustering</li>
  <li>Ranking of cities</li>
+ </ul>
 <li><a href="https://shannwang.github.io/Machine_Learning/Clustering_cities_in_NRW.html#conclusion">Conclusions</a></li>
 <li><a href="https://shannwang.github.io/Machine_Learning/Clustering_cities_in_NRW.html#references">References</a></li>
- </ul>   
+   
  <br> 
 
 

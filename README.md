@@ -107,4 +107,35 @@ shanshan.wang@uni-due.de
 </ul> 
 <br>
 
+    
+<li><a href="https://shannwang.github.io/Machine_Learning/Clustering_cities_in_NRW.html">Ranking and Clustering Cities in North Rhine-Westphalia, Germany</a></li>
+<ul>
+<li><a href="https://shannwang.github.io/Machine_Learning/Clustering_cities_in_NRW.html#introduction">Introduction</a></li>
+<li><a href="https://shannwang.github.io/Machine_Learning/Clustering_cities_in_NRW.html#data">Dataset</a></li>
+<li><a href="https://shannwang.github.io/Machine_Learning/Clustering_cities_in_NRW.html#methodology">Methodologies</a></li>
+ <ul>
+ <li>Frequency of categorized venues</li>
+ <li>k-means clustering</li>
+ <li>Hierarchical clustering</li>
+ </ul>
+<li><a href="https://shannwang.github.io/Machine_Learning/Clustering_cities_in_NRW.html#results">Results and Discussion</a></li>
+ <ul>
+ <li>City clusters by k-means clustering</li>
+ <li>City clusters by hierarchical clustering</li>
+ <li>Ranking of cities</li>
+<li><a href="https://shannwang.github.io/Machine_Learning/Clustering_cities_in_NRW.html#conclusion">Conclusions</a></li>
+<li><a href="https://shannwang.github.io/Machine_Learning/Clustering_cities_in_NRW.html#references">>References</a></li>
+ </ul>   
+ <br> 
+
+
+
+
+ 
+
+
+    
+
+ 
+
 </ol> 

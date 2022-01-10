@@ -126,17 +126,7 @@ shanshan.wang@uni-due.de
  </ul>
 <li><a href="https://shannwang.github.io/Machine_Learning/Clustering_cities_in_NRW.html#conclusion">Conclusions</a></li>
 <li><a href="https://shannwang.github.io/Machine_Learning/Clustering_cities_in_NRW.html#references">References</a></li>
-   
- <br> 
-
-
-
-
- 
-
-
-    
-
- 
+</ul>   
+<br> 
 
 </ol> 
